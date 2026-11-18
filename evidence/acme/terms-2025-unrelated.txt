@@ -1,0 +1,4 @@
+Acme Notes - Notice about opening hours
+
+Data retention: we keep your account data for 30 days after you close your account, then delete it.
+Third parties: we do not share your personal data with third parties.

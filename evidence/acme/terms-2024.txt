@@ -1,0 +1,7 @@
+Acme Notes - Terms of Service, version of 1 March 2024
+
+Data retention: we keep your account data for 30 days after you close your account, then delete it.
+Third parties: we do not sell or share your personal data with any third party.
+Disputes: any dispute is decided by the courts, we do not require arbitration.
+Renewal: paid plans do not renew automatically, you renew them yourself.
+Refunds: you may request a full refund within 30 days of purchase.

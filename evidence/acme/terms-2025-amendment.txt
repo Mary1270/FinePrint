@@ -1,0 +1,5 @@
+Amendment to https://raw.githubusercontent.com/Mary1270/FinePrint/main/evidence/acme/terms-2025.txt
+
+Data retention: we keep your account data for 90 days after you close your account.
+Third parties: we do not share your personal data with third parties.
+Disputes: disputes are decided by the courts and binding arbitration is removed.
