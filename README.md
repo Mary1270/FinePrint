@@ -103,7 +103,7 @@ changes = registry.view().get_changes("v1", "v2")
 
 ## Deployment
 
-Studio address: added to this file after deployment. The contract is submitted on its own; there is no frontend in this repository. `evidence/` holds sample terms pages used for live testing. The sample prefixes are `https://raw.githubusercontent.com/Mary1270/FinePrint/main/evidence/acme/` and `https://raw.githubusercontent.com/Mary1270/FinePrint/main/evidence/beta/`.
+Studio address: `0x526A9340baC0673533F52b2D63804d9282285aFf`. The contract is submitted on its own; there is no frontend in this repository. `evidence/` holds sample terms pages used for live testing. The sample prefixes are `https://raw.githubusercontent.com/Mary1270/FinePrint/main/evidence/acme/` and `https://raw.githubusercontent.com/Mary1270/FinePrint/main/evidence/beta/`.
 
 | Sample page | Expected result |
 |---|---|
